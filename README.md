@@ -1,1 +1,1 @@
-Sample Proj
+Sample Edit Project
